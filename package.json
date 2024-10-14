@@ -1,0 +1,15 @@
+{
+  "name": "string-calculator",
+  "description": "String Calculator TDD Kata in Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Surya-Prakash-Giri",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
